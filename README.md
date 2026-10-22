@@ -2,7 +2,7 @@
 
 I'm a senior at the University of Chicago studying **Biological Sciences (Computational Track)** and **Data Science**. I build models of biological systems and apply machine learning to biomedical data.
 
-- 🔬 Currently: modeling PAR3 polarity circuits with differential equations for my B.S. thesis (Munro Lab)
+- 🔬 Currently: modeling PAR3 polarity circuits with differential equations for my B.S. thesis (Munro Lab) | Investigating and optimizing deep learning models used for [cell tracking] (https://www.nature.com/articles/s41592-023-01879-y)
 - 🧠 Interests: computational biology, ML for medical imaging, applied AI in healthcare
 
 ---
