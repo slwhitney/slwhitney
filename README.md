@@ -4,7 +4,6 @@ I'm a senior at the University of Chicago studying **Biological Sciences (Comput
 
 - 🔬 Currently: modeling PAR3 polarity circuits with differential equations for my B.S. thesis (Munro Lab)
 - 🧠 Interests: computational biology, ML for medical imaging, applied AI in healthcare
-- 🌏 Fluent in Mandarin Chinese and Korean
 
 ---
 
